@@ -19,6 +19,7 @@ Features
 
 ```bash
 python main.py
+
 4.Follow the GUI prompts to enter your interests and skills
 
 Project Structure
