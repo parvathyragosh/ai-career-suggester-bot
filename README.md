@@ -16,7 +16,8 @@ Features
  Make sure Python 3 is installed on your system  
  Open a terminal or command prompt in the project folder  
  Run the main program with: python main.py
- Follow the GUI prompts to enter your interests and skills
+Follow the GUI prompts to enter your interests and skills
+
 
 Project Structure
 
