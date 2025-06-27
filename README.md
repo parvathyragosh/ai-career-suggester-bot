@@ -17,7 +17,7 @@ Features
 2. Open a terminal or command prompt in the project folder  
 3. Run the main program with: python main.py
 
-4.Follow the GUI prompts to enter your interests and skills
+ 4.Follow the GUI prompts to enter your interests and skills
 
 Project Structure
 
