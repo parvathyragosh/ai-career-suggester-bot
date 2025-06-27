@@ -10,6 +10,7 @@ If-else conditionals to provide personalized career suggestions
 Lists used to manage multiple career options
 Loops for processing user input
 File read/write for persistent data storage (career_data.txt)
+
 How to Run
 
 Make sure Python 3 is installed on your system
