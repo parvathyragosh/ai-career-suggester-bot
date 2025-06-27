@@ -13,11 +13,11 @@ Features
 
  How to Run
 
-1. Make sure Python 3 is installed on your system  
-2. Open a terminal or command prompt in the project folder  
-3. Run the main program with: python main.py
+ Make sure Python 3 is installed on your system  
+ Open a terminal or command prompt in the project folder  
+ Run the main program with: python main.py
 
- 4.Follow the GUI prompts to enter your interests and skills
+ Follow the GUI prompts to enter your interests and skills
 
 Project Structure
 
